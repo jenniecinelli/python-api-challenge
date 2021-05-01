@@ -1,0 +1,6 @@
+This plot, City Latitude vs. Humidity, shows the percentage of humidity of randomly generated cities in relation to their latitude. This plot shows that humidity is spread out between the hemispheres, however, there is more humidity close to the equator(0) and in the northern hemisphere.
+
+This plot, Northern Hemisphere Latitude vs. Humidity(%), shows the percentage of humidity of randomly generated northern hemisphere cities in relation to their latitude. This plot shows that there is a slight positive correlation between humidity and latitude for cities in the northern hemisphere. The closer to the equator(0), the lower the humidity and the further away from the equator(0), the higher the humidity.
+
+This plot, Southern Hemisphere Latitude vs. Humidity(%), shows the percentage of humidity of randomly generated southern hemisphere cities in relation to their latitude. This plot shows that there is a positive correlation between humidity and latitude for cities in the southern hemisphere. The closer to the equator(0), the higher the humidity and the further away from the equator(0), the lower the humidity.
+
